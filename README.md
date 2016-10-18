@@ -5,3 +5,4 @@ A cron job runs the script each midday, which obtains a JSON weather data string
 
 The script can easily be changed to get other weather data, such as if wind gusts exceed certain speed, rainfall per hour more than... etc.
 Edit 1
+Edit 2
