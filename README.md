@@ -4,3 +4,4 @@ As a keen gardener, I want to be notified about overnight frosts to enable me to
 A cron job runs the script each midday, which obtains a JSON weather data string from Wunderground.com via their API and from which the predicted overnight temperature is parsed. If this is below 3 degC, then Curl is used to call the Boxcar script as described http://openenergymonitor.org/emon/node/2443
 
 The script can easily be changed to get other weather data, such as if wind gusts exceed certain speed, rainfall per hour more than... etc.
+Edit 1
